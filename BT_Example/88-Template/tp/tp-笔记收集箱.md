@@ -1,0 +1,15 @@
+---
+aliases: tp-笔记收集箱
+tags: 
+cssclass:
+source:
+created: "2022-08-11 23:27"
+updated: "2024-08-31 16:40"
+---
+
+<%-* let filetype = await tp.system.suggester(["人物模板","通用模板"], ["人物模板","通用模板"], false, "Which template do you want to use?") -%>
+<%-* if (filetype === "人物模板") { -%>
+<%-tp.file.include("[[tp-人物模板]]")-%>
+<%-* } else { -%>
+<%-tp.file.include("[[tp-通用模板]]")-%>
+<%-* } -%>

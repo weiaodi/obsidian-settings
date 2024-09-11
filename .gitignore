@@ -1,3 +1,7 @@
 *
-!.gitignore
+# 只提交指定文件夹
+!.obsidian/
+!.obsidian/**
 !BT_Example/
+!BT_Example/**
+!.gitignore
