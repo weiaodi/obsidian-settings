@@ -18,9 +18,9 @@ if (tp.file.title.includes("-")){
 <%-* /* 以下是当“-”前面含有对应的文字就使用对应的模板 */ -%>
 <%-* if (tp.file.title.startsWith("物品")||trigger === "记录"||trigger === "流水账") { -%>
 <%-* } else if (tp.file.title.startsWith("人物")) { -%>
-<%-tp.file.include("[[tp-人物模板]]")-%>
+<%-tp.file.include("[[人物模板]]")-%>
 <%-* } else if (trigger === "人") { -%>
-<%-tp.file.include("[[tp-人物模板]]")-%>
+<%-tp.file.include("[[人物模板]]")-%>
 <%-* } else if (tp.file.title.startsWith("笔记")||trigger === "学习"||trigger === "note"||trigger === "inbox") {  -%>
 <%-* } else { -%>
 <%-* /* 如果笔记名中没有“-”则会选择下方模板 */ -%>

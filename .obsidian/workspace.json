@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b2f183b26f18d9f4",
+        "id": "50516fc0ab697d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "0128cfebdd6a8559",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
-          },
-          {
-            "id": "20c6c9fbc3d13569",
+            "id": "cbf460bd5961f00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BT_Example/88-Template/tp/tp-自动选择模板.md",
+                "file": "demo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BT_Example/88-Template/tp/tp-自动选择模板.md"
+                "file": "demo.md"
               }
             }
           }
@@ -105,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BT_Example/88-Template/tp/tp-自动选择模板.md",
+                "file": "demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BT_Example/88-Template/tp/tp-自动选择模板.md",
+                "file": "demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,22 +131,7 @@
             }
           },
           {
-            "id": "d75dbd50a02df274",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BT_Example/88-Template/常用工具.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0b5a5fbe99f1bd60",
+            "id": "445f6d12d0f056ff",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,46 +156,49 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20c6c9fbc3d13569",
+  "active": "cbf460bd5961f00e",
   "lastOpenFiles": [
-    "BT_Example/88-Template/tp/tp-笔记收集箱.md",
-    "BT_Example/88-Template/tp/tp-人物模板.md",
-    "20240910102609.md",
-    "Untitled.canvas",
-    "BT_Example/88-Template/tp/tp-通用模板.md",
-    "BT_Example/88-Template/常用工具.md",
-    "BT_Example/88-Template/button.md",
-    "BT_Example/88-Template/88-Template.md",
-    "BT_Example/88-Template/tp/tp-自动选择模板.md",
-    "BT_Example/88-Template/tp/tp-time.md",
-    "BT_Example/88-Template/home.md",
-    "BT_Example/88-Template/tp/tp.md",
+    "2024-09-19.md",
     "2024-09-12.md",
-    "20240831164044.md",
-    "z-projectIncubation/demo/Drawing 2023-11-24 09.24.57.excalidraw.md",
-    "20-Diary/当月笔记串联.md",
-    "drone-react-go/front-react-umi.md",
-    "y-temp/无人机统计分析.md",
-    "y-temp/测试文档.md",
-    "y-temp/temp.md",
-    "20-Diary/2024-09-11.md",
+    "demo.md",
+    "2024-09-15.md",
+    "2024-09-13.md",
+    "2024-09-20.md",
+    "2024-09-17.md",
+    "2024-09-18.md",
+    "2024-09-14.md",
+    "BT_Example/88-Template/tp/tp-time.md",
+    "BT_Example/88-Template/tp/人物模板.md",
+    "BT_Example/88-Template/tp/笔记收集箱.md",
+    "BT_Example/88-Template/tp/tp-通用模板.md",
+    "BT_Example/88-Template/tp/tp-自动选择模板.md",
+    "BT_Example/88-Template/button.md",
+    "20-Diary/2024-09-14.md",
+    "20-Diary/2024-09-13.md",
+    "20-Diary/2024-09-12.md",
+    "20-Diary",
+    "BT_Example/88-Template/script/openOb.js",
+    "20-Diary/2024-09-16.md",
     "20-Diary/任务看板.md",
+    "20-Diary/2023-07-10.md",
+    "20-Diary/2024-08-31.md",
+    "20-Diary/2024-09-09.md",
     "20-Diary/2024-07-30.md",
+    "20-Diary/2024-09-11.md",
+    "20-Diary/当月笔记串联.md",
+    "BT_Example/88-Template/script/movies.js",
+    "BT_Example/50-Inbox/People",
+    "BT_Example/50-Inbox",
+    "Untitled.canvas",
     "BT_Example/99-Attach/Pasted image 20230712162736.png",
     "BT_Example/99-Attach/Pasted image 20240117223943.png",
     "BT_Example/99-Attach/Pasted image 20240117224511.png",
     "BT_Example/99-Attach/Pasted image 20240117224750.png",
     "BT_Example/99-Attach/Pasted image 20240117225310.png",
-    "BT_Example/50-Inbox/People/demo.md",
-    "BT_Example/88-Template/script/notesList/README.md",
-    "BT_Example/88-Template/script/notesList/notesList.md",
     "demo.nssyncsc",
-    "BT_Example/50-Inbox/People",
-    "BT_Example/50-Inbox",
     "z-projectIncubation/水豚游戏/Pasted image 20230712160645.png",
     "z-projectIncubation/水豚游戏/Pasted image 20230712161003.png",
     "BT_Example/99-Attach/Pasted image 20240116231451.png",
@@ -229,10 +207,6 @@
     "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/sentive-words-filter/trie.drawio",
     "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/design-of-authority-system/rbac.drawio",
     "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/design-of-authority-system/new-authority-system-design-access-flow-chart.drawio",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/basis-of-authority-certification/sso.drawio",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/basis-of-authority-certification/session-cookie-authentication-process.drawio",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/basis-of-authority-certification/jwt-authentication process.drawio",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/framework/spring/images/mvc-model2.drawio",
     "z-projectIncubation/保卫开皮巴拉家园.canvas",
     "z-projectIncubation/保卫开皮巴拉家园 1.canvas"
   ]

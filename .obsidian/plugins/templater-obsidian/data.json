@@ -1,6 +1,6 @@
 {
   "command_timeout": 6,
-  "templates_folder": "BT_Example/88-Template",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "tianqi",
@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "BT_Example/88-Template/script/template",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -25,8 +25,6 @@
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    "BT_Example/88-Template/tp/tp_foldermoc-Include-subfolders.md",
-    "BT_Example/88-Template/tp/tp-插件启停模板.md",
     "BT_Example/88-Template/tp/tp-time.md"
   ],
   "startup_templates": [],
