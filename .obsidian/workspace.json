@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "demo.md",
+                "file": "z-projectIncubation/水豚游戏/小游戏策划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "demo.md"
+                "file": "z-projectIncubation/水豚游戏/小游戏策划.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "demo.md",
+                "file": "z-projectIncubation/水豚游戏/小游戏策划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "demo.md",
+                "file": "z-projectIncubation/水豚游戏/小游戏策划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +137,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1e3c59b76332ec5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,39 +164,51 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cbf460bd5961f00e",
   "lastOpenFiles": [
-    "2024-09-19.md",
-    "2024-09-12.md",
-    "demo.md",
-    "2024-09-15.md",
-    "2024-09-13.md",
-    "2024-09-20.md",
-    "2024-09-17.md",
+    "z-projectIncubation/水豚游戏/水豚主界面.md",
+    "z-projectIncubation/水豚游戏/小游戏策划.md",
+    "z-projectIncubation/水豚游戏/水豚游戏的界面参考.md",
+    "z-projectIncubation/水豚游戏/水豚游戏主城界面.md",
+    "BT_Example/88-Template/tp/tp-自动选择模板.md",
+    "BT_Example/88-Template/tp/tp-通用模板.md",
+    "BT_Example/88-Template/tp/人物模板.md",
+    "z-projectIncubation/水豚游戏/水豚游戏的副本.md",
+    "z-projectIncubation/木筏游戏/Drawing 2023-08-07 09.37.37.excalidraw.md",
+    "z-projectIncubation/木筏游戏/UI交互.md",
+    "z-projectIncubation/木筏游戏/木筏游戏.md",
+    "PDF/日语/新经典日本语基础教程第四册_  刘利国  14010165.pdf",
+    "PDF/日语/《新经典日本语基础教程  第1册》_13692613.pdf",
+    "PDF/日语/《新经典日本语基础教程  第二册》_13729106.pdf",
+    "PDF/计算机基础四大件/数据结构和算法/01_数据结构和算法概述.pdf",
+    "BT_Example/99-Attach/Pasted image 20240117224750.png",
+    "BT_Example/99-Attach/Pasted image 20240117225310.png",
+    "BT_Example/99-Attach/Pasted image 20230712165102.png",
+    "BT_Example/99-Attach/Pasted Image 20230712162612_941.png",
     "2024-09-18.md",
     "2024-09-14.md",
-    "BT_Example/88-Template/tp/tp-time.md",
-    "BT_Example/88-Template/tp/人物模板.md",
+    "2024-09-15.md",
+    "2024-09-20.md",
     "BT_Example/88-Template/tp/笔记收集箱.md",
-    "BT_Example/88-Template/tp/tp-通用模板.md",
-    "BT_Example/88-Template/tp/tp-自动选择模板.md",
-    "BT_Example/88-Template/button.md",
-    "20-Diary/2024-09-14.md",
-    "20-Diary/2024-09-13.md",
-    "20-Diary/2024-09-12.md",
+    "drone-react-go/front-react-umi.md",
+    "2024-09-12.md",
+    "2024-09-10.md",
+    "2024-09-19.md",
+    "2024-09-17.md",
+    "demo.md",
+    "2024-09-13.md",
+    "z-projectIncubation/木筏游戏/木筏游戏大纲.md",
+    "Excalidraw/Drawing 2023-09-30 15.02.24.excalidraw.md",
+    "z-projectIncubation/木筏游戏/基本内容介绍.md",
+    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/cs-basics/network/images/http&https/HTTP1.1continue1.png",
+    "Excalidraw/Pasted Image 20230223010145_023.jpg",
     "20-Diary",
     "BT_Example/88-Template/script/openOb.js",
-    "20-Diary/2024-09-16.md",
-    "20-Diary/任务看板.md",
-    "20-Diary/2023-07-10.md",
-    "20-Diary/2024-08-31.md",
-    "20-Diary/2024-09-09.md",
-    "20-Diary/2024-07-30.md",
-    "20-Diary/2024-09-11.md",
-    "20-Diary/当月笔记串联.md",
     "BT_Example/88-Template/script/movies.js",
     "BT_Example/50-Inbox/People",
     "BT_Example/50-Inbox",
@@ -196,17 +216,8 @@
     "BT_Example/99-Attach/Pasted image 20230712162736.png",
     "BT_Example/99-Attach/Pasted image 20240117223943.png",
     "BT_Example/99-Attach/Pasted image 20240117224511.png",
-    "BT_Example/99-Attach/Pasted image 20240117224750.png",
-    "BT_Example/99-Attach/Pasted image 20240117225310.png",
     "demo.nssyncsc",
     "z-projectIncubation/水豚游戏/Pasted image 20230712160645.png",
-    "z-projectIncubation/水豚游戏/Pasted image 20230712161003.png",
-    "BT_Example/99-Attach/Pasted image 20240116231451.png",
-    "BT_Example/99-Attach/Pasted image 20230712165129.png",
-    "BT_Example/99-Attach/Pasted Image 20230712162612_941.png",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/sentive-words-filter/trie.drawio",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/design-of-authority-system/rbac.drawio",
-    "Data/SoftwareEngineering/back-end/java/JavaGuide-main/docs/system-design/security/images/design-of-authority-system/new-authority-system-design-access-flow-chart.drawio",
     "z-projectIncubation/保卫开皮巴拉家园.canvas",
     "z-projectIncubation/保卫开皮巴拉家园 1.canvas"
   ]

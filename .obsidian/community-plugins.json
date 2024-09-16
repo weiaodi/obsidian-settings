@@ -1,13 +1,10 @@
 [
   "enhanced-editing",
   "templater-obsidian",
-  "dataview",
-  "obsidian-admonition",
   "obsidian-advanced-uri",
   "obsidian-kanban",
-  "obsidian-view-mode-by-frontmatter",
-  "obsidian-dynamic-highlights",
   "obsidian-excalidraw-plugin",
-  "various-complements",
-  "calendar"
+  "calendar",
+  "editor-width-slider",
+  "obsidian-git"
 ]
